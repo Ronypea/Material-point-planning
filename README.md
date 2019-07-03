@@ -48,13 +48,18 @@ Methods of optimization project 2 course ITMP
 Полученные результаты позволяют говорить о том, что алгоритм позволяет решать поставленную задачу. 
 
 ## Результаты работы 
-![](https://user-images.githubusercontent.com/29158476/60630191-af9d7a80-9e01-11e9-8354-88498b05e3f2.png)
 Рис. 1: График зависимости расстояния до точки от длины пути. Первого решения
-![](https://user-images.githubusercontent.com/29158476/60630195-b0cea780-9e01-11e9-8156-70bb2d0e2e8e.png)
+![](https://user-images.githubusercontent.com/29158476/60630191-af9d7a80-9e01-11e9-8354-88498b05e3f2.png)
+
 Рис. 2: График зависимости расстояния до точки от длины пути. Для лучшего представителя второй популяции
-![](https://user-images.githubusercontent.com/29158476/60630197-b1ffd480-9e01-11e9-8ad3-bd0c7a241bcb.png)
+![](https://user-images.githubusercontent.com/29158476/60630195-b0cea780-9e01-11e9-8156-70bb2d0e2e8e.png)
+
 Рис. 3: График зависимости расстояния до точки от длины пути. Для трех лучших представителей второй популяции
-![](https://user-images.githubusercontent.com/29158476/60630200-b3310180-9e01-11e9-9e61-c6c312bcb75f.png)
+![](https://user-images.githubusercontent.com/29158476/60630197-b1ffd480-9e01-11e9-8ad3-bd0c7a241bcb.png)
+
 Рис. 4: График зависимости расстояния до точки от длины пути. Для лучшего и 10-го
-![](https://user-images.githubusercontent.com/29158476/60630202-b4622e80-9e01-11e9-9030-adae853f830d.jpg)
+![](https://user-images.githubusercontent.com/29158476/60630200-b3310180-9e01-11e9-9e61-c6c312bcb75f.png)
+
 Рис. 5: Один из вариантов маршрут
+![](https://user-images.githubusercontent.com/29158476/60630202-b4622e80-9e01-11e9-9030-adae853f830d.jpg)
+
